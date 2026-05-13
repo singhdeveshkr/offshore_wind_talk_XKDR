@@ -2,5 +2,6 @@
 
 
 Topics covered:
-- Statistical Modelling of Ocean
+- Statistical Modelling of Ocean Waves
 - Wave Load Calculation
+- Wave Load Theory
